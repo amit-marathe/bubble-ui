@@ -3,7 +3,7 @@
 ## I hope you enjoy it
 <i> This design is for Desktop responisve only. </i>
 
-+ <img src="bubbel.png"/>
++ <img src="bubble.png"/>
 
 ## 🔗 Links
 [![website](https://img.shields.io/badge/website-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://amit-marathe.github.io/bubble-ui/)
